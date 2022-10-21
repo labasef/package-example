@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/labasef/python-sandbox/tree/main/package_example"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/labasef/package-example"
+"Bug Tracker" = "https://github.com/labasef/package-example/issues"
